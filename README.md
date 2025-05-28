@@ -3,6 +3,12 @@
 Hi, I'm Juan Manuel, a Computer Engineering student passionate about technology and software development. Here you'll find a collection of my projects, academic work, and contributions to the tech community.
 
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<br>
 
 - **Technologies Used:**
   - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
